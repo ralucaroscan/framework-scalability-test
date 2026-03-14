@@ -1,0 +1,13 @@
+{
+    "name": "react-app",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "echo Building React app...",
+        "test": "node test.js"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}
